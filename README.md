@@ -1,6 +1,6 @@
 ![WideImg](http://fictizia.com/img/github/Fictizia-plan-estudios-github.jpg)
 
-# [Curso de JavaScript para desarrolladores web](https://fictizia.com/formacion/curso-javascript)
+# [Curso de JavaScript](https://fictizia.com/formacion/curso-javascript)
 ### Programación JavaScript, Manejo del DOM, Aplicaciones interactivas con AJAX, Vanilla
 
 El Curso de JavaScript para desarrolladores web está pensado para que sus alumnos descubran el desarrollo con JavaScript nativo y adquieran las capacidades necesarias para crear profesionalmente sitios web dinámicos a medida de las necesidades de cada proyecto.
