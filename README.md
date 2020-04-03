@@ -20,3 +20,104 @@ Como metodología de trabajo durante el curso, los alumnos desarrollarán como p
 - Aprender cómo crear proyectos interactivos que requieran de AJAX.
 
 [JavaScript para desarrolladores web](https://fictizia.com/formacion/curso-javascript)
+
+Sobre el Curso
+=================
+* Horario: Viernes 16:30h a 21:30h
+
+Teoría y Recursos
+=================
+Teoría | Recursos
+------------ | -------------
+[Clase 1](teoria/dia1.md) | [Clase 1](recursos/dia1.md)
+
+
+**[Extras](recursos/extra.md)**
+
+Temario
+=================
+
+**JavaScript en la actualidad**
+
+**Carga eficiente de scripts**
+
+**Lógica y abstracción aplicada a la programación**
+
+**Pseudocódigo**
+
+**Flujo de trabajo eficiente**
+* Control de versiones con Git y GitHub
+* Consola y Chrome DevTools
+* Depuración de código
+
+**Variables**
+* Declaración y uso de constantes y variables
+* Scoping
+
+**Operadores aritméticos**
+
+**Funciones**
+* Funciones con parámetros
+* Funciones callback
+* Funciones con retorno
+
+**Condicionales**
+* Operadores lógicos
+* Condicionales múltiples (Switch)
+
+**Bucles**
+
+**Tipos de dato**
+* Datos numéricos
+* Cadenas de texto
+* Booleanos
+* Null
+* Undefined
+* Objetos
+
+**Fundamentos de la POO**
+* Clase
+* Objetos
+* Propiedades
+* Métodos
+* Eventos
+
+**Objetos nativos del DOM**
+* Document
+* Window
+* Navigator
+* Screen
+* History
+* Console
+* Location
+
+**Gestión del DOM con JavaScript**
+* Getters y Setters
+* Agregar elementos
+* Eliminar elementos
+* Modificar Atributos y contenido
+* Modificación de CSS desde JS
+
+**Eventos**
+* Eventos de Ratón
+* Eventos de teclado
+* Eventos de formulario
+* Eventos de navegador
+* Efecto Bubbling
+* Usando las coordenadas del ratón
+
+**Arrays**
+* Métodos de gestión de Arrays
+* Cargando Arrays
+* Leyendo Arrays
+
+**AJAX**
+* Fundamentos de la gestión asíncrona de información dinámica
+* Envío de datos con POST
+* Recepción y manipulación de datos dinámicos
+* JSON
+
+**Herramientas**
+* [Github](https://github.com/)
+* [JSHint](http://www.jshint.com/)
+* [Mastering MarkDown](https://guides.github.com/features/mastering-markdown/)
