@@ -1,10 +1,5 @@
 # Clase 1
 
-### Normas y demás
-- Puntualidad
-- Liquidos y comida
-- Ubicación
-- Cafeteria, cajeros, farmacias, etc...
 
 ### Metodología
 - Descansos
