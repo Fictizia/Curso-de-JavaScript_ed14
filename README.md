@@ -30,6 +30,7 @@ Teoría y Recursos
 Teoría | Recursos
 ------------ | -------------
 [Clase 1](teoria/dia1.md) | [Clase 1](recursos/dia1.md)
+[Clase 2](teoria/dia2.md) | [Clase 2](recursos/dia2.md)
 
 
 **[Extras](recursos/extra.md)**
