@@ -20,7 +20,7 @@ listaFrutas.forEach(fruta => {
     var li = document.createElement ("li")
     //paso 2: añadir texto de la fruta de la iteración
     li.innerText = fruta
-    // CSS  AÑadir un estilo
+    // CSS  AÑadir un estilo/atributo al li
     li.setAttribute("class","rojo")
     //paso 3: meter el li contruido dentro del ul
     Ul.appendChild (li)
