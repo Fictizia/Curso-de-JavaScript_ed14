@@ -1,0 +1,12 @@
+.container {
+    display: flex;
+}
+
+#lista2 {
+    color: red
+}
+
+.pokemon {
+    font-size: x-large;
+    color: cadetblue;
+}
