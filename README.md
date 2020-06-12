@@ -37,6 +37,7 @@ Teoría | Recursos
 [Clase 6](teoria/dia6.md) | [Clase 6](recursos/dia6.md)
 [Clase 7](teoria/dia7.md) | [Clase 7](recursos/dia7.md)
 [Clase 8](teoria/dia8.md) | [Clase 8](recursos/dia8.md)
+[Clase 9](teoria/dia9.md) | [Clase 9]()
 
 
 **[Extras](recursos/extra.md)**
