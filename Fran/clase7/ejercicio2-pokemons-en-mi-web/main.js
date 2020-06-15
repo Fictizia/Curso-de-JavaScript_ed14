@@ -51,3 +51,28 @@ fetch("https://pokeapi.co/api/v2/pokemon")
         })
 
 
+        
+
+
+function saludo(){
+    console.log("hola");
+}
+
+function adios(callback){
+    callback();
+    console.log("adios");
+}
+
+
+
+var promise1 = fetch("https://pokeapi.co/api/v2/pokemon/1");
+var promise2 = fetch("https://pokeapi.co/api/v2/pokemon/2");
+var promise3 = fetch("https://pokeapi.co/api/v2/pokemon/3");
+var promise4 = fetch("https://pokeapi.co/api/v2/pokemon/4");
+
+Promise.all([promise1,promise2,promise3,promise4])
+    .then(arrRes => console.log(arrRes.map(res => res.json())))
+
+
+    Promise.all(listaPromesas)
+        .then(res => res.forEach(item => console.log(item)))
